@@ -1,0 +1,10 @@
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/bin/Debug/netcoreapp2.0/Simple CRUD with MySQL.deps.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/bin/Debug/netcoreapp2.0/Simple CRUD with MySQL.runtimeconfig.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/bin/Debug/netcoreapp2.0/Simple CRUD with MySQL.runtimeconfig.dev.json
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/bin/Debug/netcoreapp2.0/Simple CRUD with MySQL.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/bin/Debug/netcoreapp2.0/Simple CRUD with MySQL.pdb
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/obj/Debug/netcoreapp2.0/Simple CRUD with MySQL.csproj.CoreCompileInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/obj/Debug/netcoreapp2.0/Simple CRUD with MySQL.AssemblyInfoInputs.cache
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/obj/Debug/netcoreapp2.0/Simple CRUD with MySQL.AssemblyInfo.cs
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/obj/Debug/netcoreapp2.0/Simple CRUD with MySQL.dll
+/Users/danielclancy/Documents/Coding Dojo/csharp_dotnet/Simple CRUD with MySQL/obj/Debug/netcoreapp2.0/Simple CRUD with MySQL.pdb
